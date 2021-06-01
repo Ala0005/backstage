@@ -1,7 +1,7 @@
 {
   "name": "@backstage/test-utils",
   "description": "Utilities to test Backstage plugins and apps.",
-  "version": "0.1.12",
+  "version": "0.1.13",
   "private": false,
   "publishConfig": {
     "access": "public",
@@ -45,7 +45,7 @@
     "zen-observable": "^0.8.15"
   },
   "devDependencies": {
-    "@backstage/cli": "^0.6.12",
+    "@backstage/cli": "^0.6.14",
     "@types/jest": "^26.0.7",
     "@types/node": "^14.14.32"
   },

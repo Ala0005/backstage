@@ -1,5 +1,11 @@
 # @backstage/plugin-catalog-react
 
+## 0.2.1
+
+### Patch Changes
+
+- 8e919a6f8: Tweak the `EntityListProvider` to do single-cycle updates
+
 ## 0.2.0
 
 ### Minor Changes

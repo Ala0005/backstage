@@ -1,5 +1,12 @@
 # @backstage/cli
 
+## 0.6.14
+
+### Patch Changes
+
+- ee4eb5b40: Adjust the Webpack `devtool` module filename template to correctly resolve via the source maps to the source files.
+- 2305ab8fc: chore(deps): bump `@spotify/eslint-config-react` from 9.0.0 to 10.0.0
+
 ## 0.6.13
 
 ### Patch Changes

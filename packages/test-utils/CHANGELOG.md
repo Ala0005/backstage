@@ -1,5 +1,11 @@
 # @backstage/test-utils
 
+## 0.1.13
+
+### Patch Changes
+
+- 7af9cef07: Fix a bug in `MockStorageApi` where it unhelpfully returned new empty buckets every single time
+
 ## 0.1.12
 
 ### Patch Changes

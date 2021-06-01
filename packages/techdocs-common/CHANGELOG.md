@@ -1,5 +1,12 @@
 # @backstage/techdocs-common
 
+## 0.6.4
+
+### Patch Changes
+
+- 090594755: Support parsing `mkdocs.yml` files that are using custom yaml tags like
+  `!!python/name:materialx.emoji.twemoji`.
+
 ## 0.6.3
 
 ### Patch Changes
